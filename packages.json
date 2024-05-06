@@ -1,0 +1,10 @@
+{
+  "packages": [],
+  "metadata-url": "/api/v4/group/11335884/-/packages/composer/p2/%package%.json",
+  "provider-includes": {
+    "p/%hash%.json": {
+      "sha256": "05accca9eeb7d53eab040a708a9f402b2bb37de0de726aacaaf83b39ec1794b6"
+    }
+  },
+  "providers-url": "/api/v4/group/11335884/-/packages/composer/%package%$%hash%.json"
+}
